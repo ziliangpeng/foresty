@@ -1,4 +1,4 @@
 foresty
 =======
 
-a collection of tree implementations in Python
+a collection of tree data structures implemented in Python.
